@@ -46,9 +46,26 @@ This repo shows how to **detect PD from a few-second voice sample** using three 
 ---
 ## Quick Start
 
-| | |
-|-|-
-**Run in Colab (GPU, zero setup)** | <a href="https://colab.research.google.com/github/SotirisDamas/Detecting-Parkinson-s-disease-from-short-speech-recordings/blob/main/Detecting_Parkinson%E2%80%99s_disease_from_short_speech_recordings.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+### Run in Colab (free GPU, zero setup)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SotirisDamas/Detecting-Parkinson-s-disease-from-short-speech-recordings/blob/main/Detecting_Parkinson%E2%80%99s_disease_from_short_speech_recordings.ipynb)
+
+### Run locally
+```bash
+git clone https://github.com/SotirisDamas/Detecting-Parkinson-s-disease-from-short-speech-recordings.git
+cd Detecting-Parkinson-s-disease-from-short-speech-recordings
+pip install -r requirements.txt          # or: pip install torch torchaudio speechbrain
+jupyter notebook Detecting_Parkinson’s_disease_from_short_speech_recordings.ipynb
+```
+
+## Acknowledgements
+
+*Course project – MSc Conversational AI, Concordia University (Prof. Mirco Ravanelli).*
+
+## License
+
+Released for academic research and educational use only. Not a medical device.
+
+
 
 
 
