@@ -42,14 +42,14 @@ This repo shows how to **detect PD from a few-second voice sample** using three 
 
    > Full literature survey, methodology diagram, and hyper-parameters live in the notebook’s Markdown cells.
 
----
 
+---
 ## Quick Start
 
 | | |
 |-|-
-**Colab (GPU, zero setup)** | <a href="https://colab.research.google.com/github/your-handle/PD_Speech_Detection/blob/main/Detecting_Parkinson%E2%80%99s_disease_from_short_speech_recordings.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+**Run in Colab (GPU, zero setup)** | <a href="https://colab.research.google.com/github/SotirisDamas/Detecting-Parkinson-s-disease-from-short-speech-recordings/blob/main/Detecting_Parkinson%E2%80%99s_disease_from_short_speech_recordings.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
----
+
 
 
